@@ -1,2 +1,1 @@
-# Um-hotel-para-Terabithia.
- Programa feito com vários outros programas utilizando um conceito de software modulado, feito com partes independentes. 
+# Faculdade_Flamingo_Projeto_Hotel_Terabithia
